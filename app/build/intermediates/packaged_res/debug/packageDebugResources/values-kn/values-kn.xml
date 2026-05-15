@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_time">ಎಲ್ಲಾ ಸಮಯ</string>
+    <string name="app_name">ಕ್ಷೀರ ಸಾಗರ</string>
+    <string name="daily">ದೈನಂದಿನ</string>
+    <string name="dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="excellent">ಅತ್ಯುತ್ತಮ</string>
+    <string name="expense">ವೆಚ್ಚ</string>
+    <string name="expense_analysis">ವೆಚ್ಚದ ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="financial_health">ಹಣಕಾಸಿನ ಆರೋಗ್ಯ</string>
+    <string name="income">ಆದಾಯ</string>
+    <string name="loss">ನಷ್ಟ</string>
+    <string name="monthly">ಮಾಸಿಕ</string>
+    <string name="monthly_trends">ಮಾಸಿಕ ಪ್ರವೃತ್ತಿಗಳು</string>
+    <string name="net_profit">ನಿವ್ವಳ ಲಾಭ</string>
+    <string name="profitable">ಲಾಭದಾಯಕ</string>
+    <string name="reports">ವರದಿಗಳು</string>
+    <string name="risk">ಅಪಾಯ</string>
+    <string name="stable">ಸ್ಥಿರ</string>
+    <string name="total_expense">ಒಟ್ಟು ವೆಚ್ಚ</string>
+    <string name="total_income">ಒಟ್ಟು ಆದಾಯ</string>
+    <string name="weekly">ವಾರದ</string>
+</resources>

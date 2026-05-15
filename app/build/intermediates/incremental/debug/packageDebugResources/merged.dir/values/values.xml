@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_time">All Time</string>
+    <string name="app_name">Dairy Farm</string>
+    <string name="daily">Daily</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="excellent">EXCELLENT</string>
+    <string name="expense">Expense</string>
+    <string name="expense_analysis">Expense Analysis</string>
+    <string name="financial_health">Financial Health</string>
+    <string name="income">Income</string>
+    <string name="loss">LOSS</string>
+    <string name="monthly">Monthly</string>
+    <string name="monthly_trends">Monthly Trends</string>
+    <string name="net_profit">Net Profit</string>
+    <string name="profitable">PROFITABLE</string>
+    <string name="reports">Reports</string>
+    <string name="risk">RISK</string>
+    <string name="stable">STABLE</string>
+    <string name="total_expense">Total Expense</string>
+    <string name="total_income">Total Income</string>
+    <string name="weekly">Weekly</string>
+    <style name="Theme.DairyFarm" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>

@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string all_time
+string app_name
+string daily
+string dashboard
+string excellent
+string expense
+string expense_analysis
+string financial_health
+string income
+string loss
+string monthly
+string monthly_trends
+string net_profit
+string profitable
+string reports
+string risk
+string stable
+string total_expense
+string total_income
+string weekly
+style Theme.DairyFarm
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
